@@ -430,10 +430,9 @@ def plot_k_means(X, centroids, idx, K, title):
 
 # Plot initial state
 plot_k_means(X, centroids, idx, K, "Final Clustering")
-
-![k-means-plot](/img/image.png)
-
 ```
+
+![k-means-plot](img/image.png)
 
 ### Full Implementation
 
